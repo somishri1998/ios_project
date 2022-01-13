@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Kalculator
+//  Kalculator  
 //
 //  Created by JOGENDRA on 18/05/17.
 //  Copyright © 2017 Jogendra Singh. All rights reserved.
